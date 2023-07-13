@@ -2,6 +2,7 @@ package routes
 
 import (
 	"errors"
+
 	"github.com/gofiber/fiber/v2"
 	"github.com/iamahless/fiber-api/database"
 	"github.com/iamahless/fiber-api/models"

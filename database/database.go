@@ -1,8 +1,9 @@
 package database
 
 import (
-	"github.com/iamahless/fiber-api/models"
 	"log"
+
+	"github.com/iamahless/fiber-api/models"
 
 	"gorm.io/driver/sqlite"
 	"gorm.io/gorm"
